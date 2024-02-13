@@ -1,3 +1,3 @@
 # AWS-Tutorial
 This repository i specifically made to put some proof concept related content.
-# Will be updated to soon..Stay Tune
+# Will be updated soon..Stay Tune
